@@ -1,1 +1,1 @@
-# Theory of everythin
+# Theory of everything
