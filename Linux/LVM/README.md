@@ -14,7 +14,7 @@ pvs
 
 3. Create volume group
 ```bash
-vgcreate  <vg_name>  <pv> <physical volume>
+vgcreate <vg_name> <physical volume>
 ```
 
 4. Check the ```vg``` status use one of the following
