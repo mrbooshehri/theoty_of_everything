@@ -88,4 +88,13 @@ EOL
 systemctl start haproxy
 systemctl status haproxy
 ```
+Tags:
+```
+#haproxy #centos
+```
 
+
+Related:
+```
+* https://serverfault.com/questions/1002144/install-haproxy-2-on-centos-7
+```
